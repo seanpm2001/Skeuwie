@@ -33,7 +33,7 @@ _Just an example_
 
 or this?
 
-![/CartoonyFlatDesign.jpeg](/Graphics/Flat-design/PinKfong/Baby-Shark/CartoonyFlatDesign.jpeg)
+![/CartoonyFlatDesign.jpeg](/Graphics/Flat-design/Pinkfong/Baby-Shark/CartoonyFlatDesign.jpeg)
 
 See, flat design can be cartoony as well.
 
