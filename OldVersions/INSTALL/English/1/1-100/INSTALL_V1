@@ -1,0 +1,23 @@
+---
+Installing Skeuowie
+---
+
+Skeuowie currently cannot be installed, as it is not functional yet.
+
+When installation is possible, the current instructions on installation are installing the `SkeuowieDE` package and restarting your computer, then switching the default environment to `SKEUOWIE`
+
+If you want to load the first project language file, you will need to have a Python interpreter/IDE Installed, with Python 3.0 or later
+
+If you want to load the second project language file, you will need to have a C++ interpreter/IDE Installed, with C++ 2005 or later
+
+If you want to view the image files, the majority of files are in PNG format. Make sure your computer can handle images of 1920x200000/2560x1440/2560x1080/1920x1080 resolution well, and that your computer can handle JPG files.
+
+Some image files are in other formats, such as SVG, and JPG. You will need support for viewing these files to view these files.
+
+Some included files are in Markdown format (*.md) for best viewing, you should use a markdown viewer/markdown editor.
+
+Some included files are in PDF format. They should be opened with a document viewer capable of handling PDF documents.
+
+---
+Install instructions file version: 1 (Saturday, 2021 September 25th at 10:33 pm)
+---
